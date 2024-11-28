@@ -1,0 +1,5 @@
+print('Olá, mundo')
+print('texto 2')
+print('texto 3')
+print('texto 4')
+print('texto 5')
